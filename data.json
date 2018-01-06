@@ -1,0 +1,5 @@
+{
+  "courses": [
+    "ABE", "ABM", "ABME", "ABT", "ACHM", "AEC", "AECO", "AENG", "AERS", "AF", "AGME", "AGR", "AGRI", "AGRS", "AMAT", "ANP", "ANSC", "ANTH", "APHY", "ARDS", "ASYS", "BIO", "BM", "BOT", "CE", "CED", "CEN", "CERP", "CHE", "CHEM", "CMSC", "COMA", "COMM", "COST", "CRP", "CRPT", "CRSC", "CWTS", "DEVC", "DM", "DMG", "DSC", "DVST", "ECMA", "ECO", "ECON", "EDFD", "EDSSE", "EDUC", "EE", "EM", "ENG", "ENRE", "ENS", "ENSC", "ENT", "ENTR", "EXCO", "FBS", "FEX", "FIL", "FOR", "FPPS", "FR", "FRCH", "FRM", "FST", "GEO", "GER", "HFDS", "HIST", "HK", "HNF", "HORT", "HUM", "HUMA", "HUME", "IE", "IT", "JAP", "KAS", "KOM", "LGD", "LTS", "MATH", "MBB", "MCB", "MGT", "MS", "MST", "NASC", "NRC", "NSTP", "PA", "PAF", "PE", "PGR", "PHDR", "PHI", "PHLO", "PHYS", "PI", "POSC", "PPT", "PPTH", "PREVM", "PSY", "RDM", "RESIDNCE", "ROTC", "SDS", "SF", "SFFG", "SFI", "SLT", "SOC", "SOIL", "SOSC", "SPAN", "SPCM", "SPEC", "SPPS", "STAT", "STS", "STTS", "SUTC", "THEA", "THESIS", "TM", "TMEM", "VCLN", "VEPI", "VETA", "VETC", "VMCB", "VMED", "VPAR", "VPH", "VPHM", "VPHY", "VPTH", "VSUR", "VTHE", "WLDL", "WST", "WSTH", "ZOO", "ZOTC"
+  ]
+}
